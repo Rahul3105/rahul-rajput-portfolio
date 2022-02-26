@@ -308,11 +308,6 @@ a:focus {
   padding: 20px 0;
 }
 
-section {
-  //padding: 60px 0;
-  //padding-bottom: 30px;
-}
-
 /**
  * ---------------------
  *   Defult Button Style
@@ -2307,12 +2302,7 @@ body {
     Mobile Nav
 ==============
 */
-.old {
-  /*==============
-            Overlay            
-  ================== */
-  /*  Navigation Menu */
-}
+
 .old .navbar-collapse {
   position: fixed;
   top: 0;
@@ -3564,105 +3554,3 @@ BLOG Pagination
 .skills-cont > ul > li > img {
   margin-bottom: 10px;
 }
-
-/* 
-<div class="col-md-3 col-sm-12 skill-card">
-                    <div class="mh-service-item shadow-1 dark-bg wow fadeInUp my-skill" data-wow-duration="0.8s"
-                        data-wow-delay="0.3s" style='height:184px;'>
-                        <div class="my-skill-img-cont">
-                            <img src="https://iamhiimanshukr.netlify.app/js.svg" alt="">
-                        </div>
-                        <h3>Javascript</h3>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-12 skill-card">
-                    <div class="mh-service-item shadow-1 dark-bg wow fadeInUp my-skill" data-wow-duration="0.8s"
-                        data-wow-delay="0.3s">
-                        <div class="my-skill-img-cont">
-                            <img src="https://iamhiimanshukr.netlify.app/react.svg" alt="">
-                        </div>
-                        <h3>React</h3>
-
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-12 skill-card">
-                    <div class="mh-service-item shadow-1 dark-bg wow fadeInUp my-skill" data-wow-duration="0.8s"
-                        data-wow-delay="0.3s">
-                        <div class="my-skill-img-cont">
-                            <img src="https://iamhiimanshukr.netlify.app/redux.svg" alt="">
-                        </div>
-                        <h3>Redux</h3>
-
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-12 skill-card">
-                    <div class="mh-service-item shadow-1 dark-bg wow fadeInUp my-skill" data-wow-duration="0.8s"
-                        data-wow-delay="0.3s">
-                        <div class="my-skill-img-cont">
-                            <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="">
-                        </div>
-                        <h3>Git</h3>
-
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-12 skill-card">
-                    <div class="mh-service-item shadow-1 dark-bg wow fadeInUp my-skill" data-wow-duration="0.8s"
-                        data-wow-delay="0.3s">
-                        <div class="my-skill-img-cont">
-                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/600px-Typescript_logo_2020.svg.png"
-                                alt="">
-                        </div>
-                        <h3>Typescript</h3>
-                    </div>
-                </div>
-
-                <div class="col-md-3 col-sm-12 skill-card">
-                    <div class="mh-service-item shadow-1 dark-bg wow fadeInUp my-skill" data-wow-duration="0.8s"
-                        data-wow-delay="0.3s">
-                        <div class="my-skill-img-cont">
-                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/600px-Typescript_logo_2020.svg.png"
-                                alt="">
-                        </div>
-                        <h3>HTML 5</h3>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-12 skill-card">
-                    <div class="mh-service-item shadow-1 dark-bg wow fadeInUp my-skill" data-wow-duration="0.8s"
-                        data-wow-delay="0.3s">
-                        <div class="my-skill-img-cont">
-                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/600px-Typescript_logo_2020.svg.png"
-                                alt="">
-                        </div>
-                        <h3>CSS 3</h3>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-12 skill-card">
-                    <div class="mh-service-item shadow-1 dark-bg wow fadeInUp my-skill" data-wow-duration="0.8s"
-                        data-wow-delay="0.3s">
-                        <div class="my-skill-img-cont">
-                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/600px-Typescript_logo_2020.svg.png"
-                                alt="">
-                        </div>
-                        <h3>Node JS</h3>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-12 skill-card">
-                    <div class="mh-service-item shadow-1 dark-bg wow fadeInUp my-skill" data-wow-duration="0.8s"
-                        data-wow-delay="0.3s">
-                        <div class="my-skill-img-cont">
-                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/600px-Typescript_logo_2020.svg.png"
-                                alt="">
-                        </div>
-                        <h3>Express JS</h3>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-12 skill-card">
-                    <div class="mh-service-item shadow-1 dark-bg wow fadeInUp my-skill" data-wow-duration="0.8s"
-                        data-wow-delay="0.3s">
-                        <div class="my-skill-img-cont">
-                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/600px-Typescript_logo_2020.svg.png"
-                                alt="">
-                        </div>
-                        <h3>Express JS</h3>
-                    </div>
-                </div> */
