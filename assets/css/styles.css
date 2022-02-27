@@ -2005,6 +2005,7 @@ body {
 }
 .mh-testimonial .mh-client-item {
   margin: 0 auto;
+  height: 100%;
   float: none;
   text-align: center;
   padding: 30px;
@@ -2038,6 +2039,8 @@ body {
   line-height: 24px;
 }
 .mh-testimonial .each-client-item {
+  height: 450px !important;
+  /* border: 1px solid lime; */
   margin: 30px 20px;
 }
 .mh-testimonial .owl-controls .owl-nav {
